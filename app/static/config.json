@@ -1,0 +1,24 @@
+{
+  "businessCard": {
+    "title": "Kush e krijoi Kartën e Biznesit",
+    "designerName": "Emri i Dizajnuesit",
+    "company": "Emri i Agjencisë",
+    "phone": "+355 XX XXX XXXX",
+    "email": "designer@example.com",
+    "website": "https://shembull.site",
+    "addressLines": [
+      "Rr. Shembullit, Nr. 1",
+      "Tiranë, Shqipëri"
+    ]
+  },
+  "usefulLinks": [
+    {
+      "label": "Karta ime e Biznesit",
+      "url": "https://rubinqenanibussinescard.netlify.app/"
+    },
+    {
+      "label": "WhatsApp Share",
+      "url": "https://wa.me/?text=Shiko%20këtë%20Analizator%20Profesional%20të%20Listëpagesave%20për%20Shqipëri!"
+    }
+  ]
+}

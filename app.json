@@ -1,0 +1,17 @@
+{
+  "name": "Payroll Analyzer API",
+  "description": "Analizator List\u00ebpagesash me parsing dhe llogaritje n\u00eb backend (FastAPI).",
+  "stack": "heroku-22",
+  "env": {},
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
